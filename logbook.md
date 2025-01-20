@@ -4,9 +4,7 @@
 ## Date Started: 19.01.2025
 
 # Logbook
-
-### Summary
-2025-01-19, Created Git repository, initialized with a README file, and added a logbook.
+Summary: Created Git repository, initialized with a README file, and added a logbook.
 
 | Date       | Time       | Subject(s)            | Output                                |
 |------------|------------|-----------------------|---------------------------------------|
