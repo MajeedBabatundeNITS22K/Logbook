@@ -10,7 +10,8 @@ This logbook records the progress of my GitHub assignment, including time spent 
 
 ## Summary
 This logbook records the progress of my GitHub assignment, including time spent on each task.
-## Date: 09.02.2025: This logbook documents my progress on PortSwigger security labs, including key findings and the hours spent on each task.
+##Date: 09.02.2025: 
+This logbook documents my progress on PortSwigger security labs, including key findings and the hours spent on each task.
 
 ## Log Entries
 
