@@ -4,14 +4,13 @@
 ## Date Started: 19.01.2025
 
 ## Summary
-This logbook records the progress of my GitHub assignment, including time spent on each task.
-
-## Log Entries
-
-## Summary
+## Date: 19.01.2025: 
 This logbook records the progress of my GitHub assignment, including time spent on each task.
 ## Date: 09.02.2025: 
 This logbook documents my progress on PortSwigger security labs, including key findings and the hours spent on each task.
+## Date: 20.02.2025: 
+This logbook documents penetration testing activities conducted on the *Booking System* (Phase 1)
+
 
 ## Log Entries
 
