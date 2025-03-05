@@ -29,8 +29,6 @@ This logbook documents penetration testing activities conducted on the *Booking 
 | 2025-02-09 | 18:00      | 19:30    | **1.5 hrs** | Access Control Lab: User role manipulation      | Escalated privileges by modifying request parameters |
 | 2025-02-19 | 09:00      | 19:00    | **8 hrs**  | *Setup of Penetration Testing Environment*: Installed VirtualBox & Kali Linux, set up Docker, cloned the Booking System test application, and verified accessibility |
 | 2025-02-20 | 09:00      | 19:00    | *4 hrs*  | *Penetration Testing & Reporting*: Conducted security tests, identified vulnerabilities (plaintext passwords, SQLi, role manipulation), and documented findings |
+| 2025-03-06 | 10:00      | 16:30    | 6.5 hrs | ZAP Security Scanning & Reporting               | Conducted ZAP scan, identified vulnerabilities, and documented findings |
 
 ---
-
-
-
