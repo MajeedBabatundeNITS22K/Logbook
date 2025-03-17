@@ -29,8 +29,6 @@ This logbook records vulnerability scanning activities using ZAP Security Scanne
 This logbook documents the MD5 hash decryption attempts, including successful recoveries and techniques applied.
 
 ## Log Entries
-
-```plaintext
 | Date       | Start Time | End Time | Hours Spent | Subject(s)                                          | Output                                              |
 | ---------- | ---------- | -------- | ----------- | ------------------------------------------------- | --------------------------------------------------- |
 | 2025-01-19 | 20:19      | 20:30    | **0.2 hrs** | Git repository setup                              | Initialized with a README file                     |
