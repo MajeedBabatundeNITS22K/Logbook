@@ -6,8 +6,6 @@
 
 ## Date Started: 05.11.2025
 
-## Date: 05.11.2025:
-
 This logbook records the progress of my CyberSecurity Assignments, including the time spent on each task.
 
 ## Log Entries
