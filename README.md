@@ -10,7 +10,7 @@ This logbook records the progress of my CyberSecurity Assignments, including the
 
 ## Log Entries
 
-| Date       | Start Time | End Time | Hours Spent | Subject(s)                       | Output |
+| Date       | Start Time | End Time | Hours Spent | Topic(s)                       | Output |
 |-------------|-------------|-----------|--------------|-----------------------------------|---------|
 | 2025-11-05 | 13:00 | 13:30 | **0.5 hrs** | Git repository setup | Created and initialized repo with README |
 | 2025-11-04 | 13:30 | 14:00 | **0.5 hrs** | Logbook creation | Added logbook.md and formatted entries |
