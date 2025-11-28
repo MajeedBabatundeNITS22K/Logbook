@@ -1,4 +1,4 @@
-<img width="1024" height="550" alt="image" src="https://github.com/user-attachments/assets/40859316-56e8-47ee-b395-26a089f52187" /># Logbook
+# Logbook
 
 ## Project Name: Logbook
 
