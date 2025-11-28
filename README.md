@@ -26,7 +26,7 @@ This logbook records the progress of my CyberSecurity Assignments, including the
 | 2025-11-18 | 18:30 | 19:30 | **1.0 hrs** | Access Control: Admin panel exposed | Completed unprotected admin panel lab; confirmed missing authentication |
 | 2025-11-18 | 19:30 | 20:30 | **1.0 hrs** | Access Control: Role parameter manipulation | Completed role escalation lab; learned risks of client-controlled role values |
 | 2025-11-18 | 20:30 | 21:00 | **0.5 hrs** |   Updated Logbook | Added portwiggers lab completion entries |
-| 2025-11-25 | 15:00 | 23:00 | **8 hrs** | Setup of Penetratin Teasting Environment: Installed VirtualBox & Kali Linux, set up Docker, cloned the Booking System test application, and verified accessibility |
+| 2025-11-25 | 15:00 | 23:00 | **8 hrs** | Setup of Penetratin Teasting Environment | Installed VirtualBox & Kali Linux, set up Docker, cloned the Booking System test application, and verified accessibility |
 | 2025-11-28 | 17:30 | 22:30 | **5 hrs** | Penetration Testing & Reporting (Phase 1 Registration Page) | Conducted manual and automated testing using OWASP ZAP, attempted SQLi payloads, identified vulnerabilities (input validation flaws, weak error handling), collected evidence and prepared report screenshots |
 
 
